@@ -11,9 +11,9 @@ int b2 = 10 ;
 int a3 = -9 ;
 int b3 = -3 ;
 
- int max1 = 0 ;
- int max2 = 0 ;
- int max3 = -3;
+ int max1 = a1 ;
+ int max2 = a2 ;
+ int max3 = a3;
 
 if   ( a1 > max1 ) max1 = a1 ;
 if   ( b1 > max1 ) max1 = b1 ; 
